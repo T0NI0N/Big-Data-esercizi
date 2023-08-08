@@ -1,2 +1,2 @@
-# BBig Data esercizi
+# Big Data esercizi
 esercizi del corso di Big Data
