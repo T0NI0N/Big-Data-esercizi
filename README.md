@@ -1,2 +1,2 @@
-# Big-Data-class-tasks
-repository containing homework done in big data class at university
+# BBig Data esercizi
+esercizi del corso di Big Data
