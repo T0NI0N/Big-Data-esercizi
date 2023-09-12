@@ -1,0 +1,11 @@
+keyword,lunghezza,intestazione,valida
+offerta,lunga,si,si
+offerta,lunga,no,si
+offerta,corta,no,no
+offerta,media,si,si
+money,media,no,no
+money,lunga,no,no
+money,corta,no,no
+viagra,lunga,no,no
+viagra,lunga,si,si
+viagra,media,no,no
